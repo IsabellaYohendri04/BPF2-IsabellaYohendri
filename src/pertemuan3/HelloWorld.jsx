@@ -17,7 +17,7 @@ export default function HelloWorld(){
 	          />
               <UserCard {...propsUserCard}/>
 
-              <img src="img/mawar.jpg" alt="logo" />
+              <img src="img/mawar.jpg" alt="logo" width="100%"/>
         </div>
     )
 }
